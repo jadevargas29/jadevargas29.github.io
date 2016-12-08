@@ -1,6 +1,6 @@
 body {
 	font-family: Arial;
-	background: url("images/laptop-blue.jpg");
+	background: url(".../images/laptop-blue.jpg");
 	background-size: cover;
 	color: #000;
 }
