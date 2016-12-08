@@ -4,9 +4,6 @@ body {
 	background-size: cover;
 	color: #000;
 }
-h3 {
-	text-align: center;
-}
 h1 {
 	text-align: center;
 	font-weight: bold;
@@ -15,6 +12,8 @@ h1 {
 #minislogan {
 	text-align: center;
 	font-style: italic;
+	font-weight: bold;
+	color: #ff0000;
 }
 #contact {
 	text-align: center;
