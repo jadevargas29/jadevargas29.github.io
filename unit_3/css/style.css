@@ -4,13 +4,17 @@ body {
 	background-size: cover;
 	color: #000;
 }
-h1 {
+h3 {
 	text-align: center;
 }
-#slogan {
-	text-decoration: italic;
+h1 {
 	text-align: center;
+	font-weight: bold;
 }
 #minislogan {
 	text-align: center;
+	text-decoration: italic;
+}
+hr {
+	color: #000;
 }
