@@ -3,8 +3,17 @@ body {
 	background: url("images/laptop-blue.jpg");
 	background-size: cover;
 	color: #000;
+}
+h1 {
+	text-align: center;
+}
+h3 {
 	text-align: center;
 }
 #slogan {
 	text-decoration: italic;
+	text-align: center;
+}
+#minislogan {
+	text-align: center;
 }
