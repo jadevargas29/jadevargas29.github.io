@@ -1,5 +1,8 @@
+title {
+	text-transform: uppercase;
+}
 body {
-	font-family: Arial;
+	font-family: Arial, sans-serif;
 	background: url("images/laptop-blue.jpg");
 	background-size: cover;
 	color: #000;
@@ -8,13 +11,19 @@ h3 {
 	text-align: center;
 }
 h1 {
+	text-transform: uppercase;
 	text-align: center;
 	font-weight: bold;
+	font-size: 84px;
 }
 #minislogan {
 	text-align: center;
-	text-decoration: italic;
+	font-style: italic;
 }
 hr {
+	color: #000;
+}
+a {
+	text-decoration: none;
 	color: #000;
 }
